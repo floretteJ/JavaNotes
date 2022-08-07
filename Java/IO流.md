@@ -2,15 +2,15 @@
 
 # 1、File类
 
-![image-20210912104353982](../imgs/image-20210912104353982.png)
+![image-20210912104353982](D:/Typora/imgs/image-20210912104353982.png)
 
 ## 1.1 常用构造器
 
 **在内存中创建，硬盘上不存在**
 
-![image-20210912101455855](https://github.com/floretteJ/JavaNotes/tree/main/imgs/image-20210912101455855.png)
+![image-20210912101455855](D:/Typora/imgs/image-20210912101455855.png)
 
-![image-20210912102144539](https://github.com/floretteJ/JavaNotes/tree/main/imgs/image-20210912102144539.png)
+![image-20210912102144539](D:/Typora/imgs/image-20210912102144539.png)
 
 ![image-20210912102123342](D:/Typora/imgs/image-20210912102123342.png)
 
