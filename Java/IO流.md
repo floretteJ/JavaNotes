@@ -10,7 +10,7 @@
 
 ![image-20210912101455855](https://github.com/floretteJ/JavaNotes/tree/main/)/imgs/image-20210912101455855.png)
 
-![image-20210912102144539](D:/Typora/imgs/image-20210912102144539.png)
+![image-20210912102144539]([D:/Typora](https://github.com/floretteJ/JavaNotes/tree/main/)/imgs/image-20210912102144539.png)
 
 ![image-20210912102123342](D:/Typora/imgs/image-20210912102123342.png)
 
